@@ -9,4 +9,4 @@ Its like monkeytype but in Terminal.
 - run `./raox`
 
 ## ss
-![Screenshot2024-05-10_19-57-59](https://github.com/amanraox/Monkeytype-in-Terminal/asset/Screenshot2024-05-10_19-57-59.jpg)
+![Screenshot2024-05-10_19-57-59](./asset/Screenshot2024-05-10_19-57-59.jpg)
